@@ -1,0 +1,26 @@
+html, body {
+  margin: 2%;
+  height: 80%;
+}
+
+body {
+   padding: 20px;
+  background: url("/static/main/img/background.png") fixed;
+  background-repeat: repeat;
+}
+
+ul#menu {
+  padding:2em;
+  margin:0;
+  margin-bottom: 30px;
+  text-align: right;
+  background-color:#333;
+}
+ul#menu a {
+  color:white;
+  text-decoration:none;
+}
+
+ul#menu li {
+  display: inline-block;
+}
